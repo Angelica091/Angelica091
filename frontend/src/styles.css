@@ -1,0 +1,13 @@
+body {
+     background-color: purple;
+     font-family: Arial sans-serif;
+     text-align: center;
+     padding: 20px;
+}
+.container {
+    margin-top: 50px;
+}
+.title {
+    color: black;
+    font-weight: bold;
+}
